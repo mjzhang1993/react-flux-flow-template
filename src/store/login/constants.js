@@ -1,0 +1,5 @@
+// 常量
+
+export const CHANGE_INPUT_DATA = 'CHANGE_INPUT_DATA';
+
+export const INPUT_FEEDBACK= 'INPUT_FEEDBACK';
